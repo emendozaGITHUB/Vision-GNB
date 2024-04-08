@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+ </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+
+ <!-- Customizations begin here -->
+ <data name="AboutLinkText" xml:space="preserve">
+    <value>Acerca de</value>
+</data>
+<data name="ButtonCancel" xml:space="preserve">
+    <value>Cancelar</value>
+</data>
+<data name="ButtonFinish" xml:space="preserve">
+    <value>Finalizar</value>
+</data>
+<data name="ButtonNext" xml:space="preserve">
+    <value>Siguientes</value>
+</data>
+<data name="ButtonOk" xml:space="preserve">
+    <value>Aceptar</value>
+</data>
+<data name="CancelFinishedMessage" xml:space="preserve">
+    <value>La sesión ya no está activa. Puede cerrar la ventana o hacer clic en el vínculo siguiente para reiniciar.</value>
+</data>
+<data name="CancelFinishedTitle" xml:space="preserve">
+    <value>Sesión finalizada</value>
+</data>
+<data name="ErrorDescription_3000" xml:space="preserve">
+    <value>Se ha producido un error. Inténtelo de nuevo y, si el problema persiste, póngase en contacto con el departamento de soporte técnico o el administrador del sistema. (Error 3000)</value>
+</data>
+<data name="ErrorDescription_3001" xml:space="preserve">
+    <value>Asegúrese de escribir el nombre de usuario correctamente. Si aún no puede restablecer la contraseña, póngase en contacto con el departamento de soporte técnico para obtener ayuda. (Error 3001)</value>
+</data>
+<data name="ErrorDescription_3002" xml:space="preserve">
+    <value>La sesión finalizó. Regrese a la página principal para volver a empezar. (Error 3002)</value>
+</data>
+<data name="ErrorDescription_3003" xml:space="preserve">
+    <value>Forefront Identity Manager no reconoce la cuenta de usuario actual. Póngase en contacto con el departamento de soporte técnico o el administrador del sistema. (Error 3003)</value>
+</data>
+<data name="ErrorDescription_3004" xml:space="preserve">
+    <value>No está autorizado a registrarse para el restablecimiento de contraseña. Póngase en contacto con el departamento de soporte técnico o el administrador del sistema. (Error 3004)</value>
+</data>
+<data name="ErrorDescription_3005" xml:space="preserve">
+    <value>Una o varias respuestas proporcionadas no coinciden con las respuestas que proporcionó durante el registro de contraseñas. Para restablecer la contraseña, las respuestas que proporcione ahora deben coincidir con las respuestas que proporcionó al registrarse. Puede volver a empezar desde la página principal o ponerse en contacto con el departamento de soporte técnico o el administrador del sistema. (Error 3005)</value>
+</data>
+<data name="ErrorDescription_3006" xml:space="preserve">
+    <value>La contraseña que especificó es incorrecta. Debe escribir la contraseña correcta para registrarse en Restablecimiento de contraseña. (Error 3006)</value>
+</data>
+<data name="ErrorDescription_3007" xml:space="preserve">
+    <value>Está prohibido restablecer temporalmente la contraseña. Inténtelo de nuevo más tarde o póngase en contacto con el departamento de soporte técnico o el administrador del sistema para obtener ayuda. (Error 3007)</value>
+</data>
+<data name="ErrorDescription_3008" xml:space="preserve">
+    <value>Se ha producido un error. Inténtelo de nuevo y, si el problema persiste, póngase en contacto con el departamento de soporte técnico o el administrador del sistema. (Error 3008)</value>
+</data>
+<data name="ErrorDescription_3009" xml:space="preserve">
+    <value>La entrada contiene texto en un formato no permitido. Inténtelo de nuevo con otra entrada o póngase en contacto con el soporte técnico o el administrador del sistema. (Error 3009)</value>
+</data>
+<data name="ErrorDescription_3010_Registration" xml:space="preserve">
+    <value>No están habilitados los scripts en el explorador. Habilite los scripts y vuelva a la página de inicio Restablecimiento de contraseña o póngase en contacto con el soporte técnico para obtener ayuda.</value>
+</data>
+<data name="ErrorDescription_3010_Reset" xml:space="preserve">
+    <value>No están habilitados los scripts en el explorador. Habilite los scripts y vuelva a la página de inicio Registro de la contraseña o póngase en contacto con el soporte técnico para obtener ayuda.</value>
+</data>
+<data name="ErrorDescription_3011" xml:space="preserve">
+    <value>Este sitio usa cookies. Configure el explorador para que acepte cookies e inténtelo de nuevo o póngase en contacto con el soporte técnico para obtener ayuda.</value>
+</data>
+<data name="ErrorDescription_3012" xml:space="preserve">
+    <value>Los datos especificados no concuerdan con el código de seguridad que se le envió. Puede volver a intentar restablecer la contraseña o bien puede ponerse en contacto con el departamento de soporte técnico para obtener ayuda.</value>
+</data>
+<data name="ErrorDescription_3013" xml:space="preserve">
+    <value>No se puede enviar un código de seguridad. Póngase en contacto con el departamento de soporte técnico para obtener ayuda.</value>
+</data>
+<data name="ErrorMessageDomainUsernameFormat" xml:space="preserve">
+    <value>Escriba su nombre de usuario en el formato correcto.</value>
+</data>
+<data name="ErrorMessageDomainUsernameRequired" xml:space="preserve">
+    <value>Escriba un nombre de usuario para continuar.</value>
+</data>
+<data name="ErrorMessagePasswordRequired" xml:space="preserve">
+    <value>Escriba una contraseña.</value>
+</data>
+<data name="ErrorMessagePasswordsDoNotMatch" xml:space="preserve">
+    <value>Asegúrese de que las dos contraseñas coincidan.</value>
+</data>
+<data name="ErrorPageDefaultHeading" xml:space="preserve">
+    <value>Error de la aplicación</value>
+</data>
+<data name="ErrorPageServerTime" xml:space="preserve">
+    <value>Hora del servidor: {0:T}</value>
+</data>
+<data name="ErrorPageTitle" xml:space="preserve">
+    <value>Forefront Identity Management: error de contraseña</value>
+</data>
+<data name="ErrorTitle_3000" xml:space="preserve">
+    <value>Error</value>
+</data>
+<data name="ErrorTitle_3001" xml:space="preserve">
+    <value>Acceso denegado</value>
+</data>
+<data name="ErrorTitle_3002" xml:space="preserve">
+    <value>Sesión finalizada</value>
+</data>
+<data name="ErrorTitle_3003" xml:space="preserve">
+    <value>Usuario no reconocido</value>
+</data>
+<data name="ErrorTitle_3004" xml:space="preserve">
+    <value>Usuario no autorizado</value>
+</data>
+<data name="ErrorTitle_3005" xml:space="preserve">
+    <value>Las respuestas no coinciden</value>
+</data>
+<data name="ErrorTitle_3006" xml:space="preserve">
+    <value>Contraseña incorrecta</value>
+</data>
+<data name="ErrorTitle_3007" xml:space="preserve">
+    <value>Acceso temporalmente denegado</value>
+</data>
+<data name="ErrorTitle_3008" xml:space="preserve">
+    <value>Error de comunicación</value>
+</data>
+<data name="ErrorTitle_3009" xml:space="preserve">
+    <value>Entrada prohibida</value>
+</data>
+<data name="ErrorTitle_3010" xml:space="preserve">
+    <value>Error de configuración del explorador</value>
+</data>
+<data name="ErrorTitle_3011" xml:space="preserve">
+    <value>Error de configuración del explorador</value>
+</data>
+<data name="ErrorTitle_3012" xml:space="preserve">
+    <value>No se pudo verificar</value>
+</data>
+<data name="ErrorTitle_3013" xml:space="preserve">
+    <value>No se puede enviar el código de seguridad</value>
+</data>
+<data name="FinalizeRegistrationHeading1" xml:space="preserve">
+    <value>Para restablecer su contraseña:</value>
+</data>
+<data name="FinalizeRegistrationSubHeading1" xml:space="preserve">
+    <value>Vaya al portal de restablecimiento de contraseñas</value>
+</data>
+<data name="FinalizeRegistrationSubHeading2" xml:space="preserve">
+    <value>Compruebe su identidad</value>
+</data>
+<data name="FinalizeRegistrationSubHeading3" xml:space="preserve">
+    <value>Elija la nueva contraseña</value>
+</data>
+<data name="FinishingDescription" xml:space="preserve">
+    <value>Elija la nueva contraseña</value>
+</data>
+<data name="FinishingTitle" xml:space="preserve">
+    <value>Restablecimiento de contraseña:</value>
+</data>
+<data name="GotoPortalPrefix" xml:space="preserve">
+    <value>Ir a</value>
+</data>
+<data name="GotoPortalSuffix" xml:space="preserve">
+    <value>página principal</value>
+</data>
+<data name="LabelTroubleshootingLinkText" xml:space="preserve">
+    <value>Ver detalles</value>
+</data>
+<data name="LoadingText" xml:space="preserve">
+    <value>Cargando...</value>
+</data>
+<data name="NoScriptTagErrorMessage" xml:space="preserve">
+    <value>No están habilitados los scripts en el explorador. Habilite los scripts y vuelva a la página de inicio o póngase en contacto con el soporte técnico para obtener ayuda.</value>
+</data>
+<data name="PasswordResetOperationGeneralErrorMessage" xml:space="preserve">
+    <value>Error al intentar restablecer la contraseña.</value>
+</data>
+<data name="PasswordResetOperationPolicyViolationErrorMessage" xml:space="preserve">
+    <value>La contraseña no cumple con las directivas de contraseñas de la organización.</value>
+</data>
+<data name="PasswordResetOperationUserCantChangePasswordErrorMessage" xml:space="preserve">
+    <value>Error al restablecer la contraseña. El usuario no puede cambiar la contraseña.</value>
+</data>
+<data name="PrivacyStatement" xml:space="preserve">
+    <value>Declaración de privacidad</value>
+</data>
+<data name="RegistrationDescription" xml:space="preserve">
+    <value>Autoservicio de registro de la contraseña</value>
+</data>
+<data name="RegistrationMission" xml:space="preserve">
+    <value>Si alguna vez olvida la contraseña, se puede restablecer manualmente sin llamar al departamento de soporte técnico.</value>
+</data>
+<data name="RegistrationPageTitle" xml:space="preserve">
+    <value>Forefront Identity Management: registro de contraseñas</value>
+</data>
+<data name="RegistrationSteps" xml:space="preserve">
+    <value>Haga clic en "Siguiente" para comenzar el proceso de registro.</value>
+</data>
+<data name="RegistrationSuccessDescription" xml:space="preserve">
+    <value>Ya está registrado.</value>
+</data>
+<data name="RegistrationSuccessTitle" xml:space="preserve">
+    <value>Completado:</value>
+</data>
+<data name="RegistrationWelcomeTitle" xml:space="preserve">
+    <value>Registro de contraseña:</value>
+</data>
+<data name="ResetDescription" xml:space="preserve">
+    <value>Restablecimiento de contraseña de autoservicio</value>
+</data>
+<data name="ResetEnterNamePrompt" xml:space="preserve">
+    <value>Escriba su nombre de usuario a continuación</value>
+</data>
+<data name="ResetEnterPassword" xml:space="preserve">
+    <value>Escriba una nueva contraseña:</value>
+</data>
+<data name="ResetExample1" xml:space="preserve">
+    <value>contoso\mmeyers</value>
+</data>
+<data name="ResetExample2" xml:space="preserve">
+    <value>mmeyers@contoso.com</value>
+</data>
+<data name="ResetExamples" xml:space="preserve">
+    <value>Ejemplos:</value>
+</data>
+<data name="ResetPageTitle" xml:space="preserve">
+    <value>Forefront Identity Management: restablecimiento de contraseñas</value>
+</data>
+<data name="ResetReenterPassword" xml:space="preserve">
+    <value>Vuelva a escribir la contraseña:</value>
+</data>
+<data name="ResetSuccessDescription" xml:space="preserve">
+    <value>Se ha restablecido su contraseña</value>
+</data>
+<data name="ResetSuccessTitle" xml:space="preserve">
+    <value>Correcto:</value>
+</data>
+<data name="ResetUseNewPassword" xml:space="preserve">
+    <value>Ahora puede usar la nueva contraseña para iniciar sesión.</value>
+</data>
+<data name="ResetUsernameTextFormat" xml:space="preserve">
+    <value>(Restablecer la contraseña para {0})</value>
+</data>
+<data name="ResetWelcomeTitle" xml:space="preserve">
+    <value>Restablecimiento de contraseña:</value>
+</data>
+<data name="TroubleshootingEmailSubject" xml:space="preserve">
+    <value>Detalles de error de procesamiento de solicitudes de FIM</value>
+</data>
+<data name="TroubleshootingLabelAttributes" xml:space="preserve">
+    <value>Atributos:</value>
+</data>
+<data name="TroubleshootingLabelCloseButton" xml:space="preserve">
+    <value>Cerrar</value>
+</data>
+<data name="TroubleshootingLabelCopyToClipboard" xml:space="preserve">
+    <value>Copiar al Portapapeles</value>
+</data>
+<data name="TroubleshootingLabelCorrelationId" xml:space="preserve">
+    <value>Id. de correlación:</value>
+</data>
+<data name="TroubleshootingLabelDetails" xml:space="preserve">
+    <value>Detalles:</value>
+</data>
+<data name="TroubleshootingLabelPostCopyClipboardMessage" xml:space="preserve">
+    <value>La información se ha copiado en el Portapapeles.</value>
+</data>
+<data name="TroubleshootingLabelRequestId" xml:space="preserve">
+    <value>Id. de solicitud:</value>
+</data>
+<data name="TroubleshootingLabelSendEmail" xml:space="preserve">
+    <value>Enviar información por correo electrónico</value>
+</data>
+<data name="TroubleshootingLabelSource" xml:space="preserve">
+    <value>Motivo:</value>
+</data>
+<data name="TroubleshootingLabelViewRequestDetails" xml:space="preserve">
+    <value>Ver detalles de la solicitud</value>
+</data>
+<data name="TroubleshootingLinkText" xml:space="preserve">
+    <value>Información sobre solución de problemas</value>
+</data>
+
+<data name="OTPEmailRegistraionEmailTextboxLabel" xml:space="preserve">
+    <value>Dirección de correo electrónico:</value>
+</data>
+<data name="OTPEmailRegistrationEmailRequiredErrorMessage" xml:space="preserve">
+    <value>El campo de dirección de correo electrónico no puede estar vacío.</value>
+</data>
+<data name="OTPEmailRegistrationFooterReadOnly" xml:space="preserve">
+    <value>Para actualizar la dirección de correo electrónico, siga el proceso que haya definido la organización o póngase en contacto con el soporte técnico.</value>
+</data>
+<data name="OTPEmailRegistrationFooterReadWrite" xml:space="preserve">
+    <value>La dirección de correo electrónico la almacena la organización en Forefront Identity Manager.</value>
+</data>
+<data name="OTPEmailRegistrationGateTitle" xml:space="preserve">
+    <value>Verificación por dirección de correo electrónico</value>
+</data>
+<data name="OTPEmailRegistrationHeaderReadOnly" xml:space="preserve">
+    <value>Para restablecer su contraseña, se enviará un código de seguridad de verificación a su correo electrónico. Si la dirección de correo electrónico que se indica a continuación no es correcta, deberá actualizarla antes de poder usar el restablecimiento de contraseña de autoservicio.</value>
+</data>
+<data name="OTPEmailRegistrationHeaderReadWrite" xml:space="preserve">
+    <value>Escriba su dirección de correo electrónico a continuación. Para restablecer su contraseña, se enviará un código de verificación a su correo electrónico.</value>
+</data>
+<data name="OTPEmailResetGateTitle" xml:space="preserve">
+    <value>Verificar la identidad: verificación por correo electrónico</value>
+</data>
+<data name="OTPEmailResetHeader" xml:space="preserve">
+    <value>Escriba el código de seguridad a continuación. Se envió un código de seguridad a la dirección de correo electrónico registrada para esta organización.</value>
+</data>
+
+<data name="OTPRegularExpressionErrorMessage" xml:space="preserve">
+    <value>El valor especificado no coincide con el formato esperado.</value>
+</data>
+<data name="OTPResetOneTimePasswordRequiredErrorMessage" xml:space="preserve">
+    <value>El campo de código de seguridad no puede estar vacío.</value>
+</data>
+<data name="OTPResetVerificationLabel" xml:space="preserve">
+    <value>Código de seguridad:</value>
+</data>
+<data name="OTPSmsRegistrationFooterReadOnly" xml:space="preserve">
+    <value>Para actualizar el número de teléfono móvil, siga el proceso que haya definido la organización o póngase en contacto con el soporte técnico.</value>
+</data>
+<data name="OTPSmsRegistrationFooterReadWrite" xml:space="preserve">
+    <value>El número de teléfono móvil los almacena la organización en Forefront Identity Manager.</value>
+</data>
+<data name="OTPSmsRegistrationGateTitle" xml:space="preserve">
+    <value>Verificación por teléfono móvil</value>
+</data>
+<data name="OTPSmsRegistrationHeaderReadOnly" xml:space="preserve">
+    <value>Para restablecer su contraseña, se enviará un código de seguridad de verificación a su teléfono móvil. Si el número de teléfono móvil que se indica a continuación no es correcto, deberá actualizarlo antes de poder usar el restablecimiento de contraseña de autoservicio.</value>
+</data>
+<data name="OTPSmsRegistrationHeaderReadWrite" xml:space="preserve">
+    <value>Escriba su número de teléfono móvil a continuación. Para restablecer su contraseña, se enviará un código de verificación a su teléfono móvil.</value>
+</data>
+<data name="OTPSmsRegistrationMobilePhoneRequiredErrorMessage" xml:space="preserve">
+    <value>El campo de número de teléfono móvil no puede estar vacío.</value>
+</data>
+<data name="OTPSmsRegistrationSMSTextBoxLabel" xml:space="preserve">
+    <value>Teléfono móvil:</value>
+</data>
+<data name="OTPSmsResetGateTitle" xml:space="preserve">
+    <value>Verificar la identidad: verificación por teléfono móvil</value>
+</data>
+<data name="OTPSmsResetHeader" xml:space="preserve">
+    <value>Escriba el código de seguridad a continuación. Se envió un código de seguridad al teléfono móvil registrado para esta organización.</value>
+</data>
+
+<data name="PasswordGateDescriptionText" xml:space="preserve">
+    <value>Escriba a continuación la contraseña actual y haga clic en "Siguiente".</value>
+</data>
+<data name="PasswordGateErrorMessagePasswordRequired" xml:space="preserve">
+    <value>Escriba la contraseña actual.</value>
+</data>
+<data name="PasswordGateGateTitle" xml:space="preserve">
+    <value>La contraseña actual</value>
+</data>
+<data name="PasswordGatePasswordLabelText" xml:space="preserve">
+    <value>Contraseña:</value>
+</data>
+<data name="PasswordGateUsernameTextFormat" xml:space="preserve">
+    <value>&lt;i&gt; (ha iniciado sesión como: &lt;b&gt;{0}&lt;/b&gt;) &lt;/i&gt;</value>
+</data>
+<data name="QAGateErrorNotEnoughQuestionsAnswered" xml:space="preserve">
+    <value>Debe responder al menos {0} preguntas.</value>
+</data>
+<data name="QAGateIncorrectAnswer" xml:space="preserve">
+    <value>Las respuestas no son correctas.</value>
+</data>
+<data name="QAGatePrivacyNotice" xml:space="preserve">
+    <value>Su organización almacena las respuestas facilitadas en Forefront Identity Manager.</value>
+</data>
+<data name="QAGateRegistrationNumberOfQuestionsExplanation_Format" xml:space="preserve">
+    <value>Debe responder al menos {0} preguntas para registrarse.</value>
+</data>
+<data name="QAGateRegistrationOneOrMoreAnswersFailedValidation" xml:space="preserve">
+    <value>Una o más respuestas no cumplen con las directivas.</value>
+</data>
+<data name="QAGateRegistrationThisAnswerValidationFailed" xml:space="preserve">
+    <value>Esta respuesta no cumple con la directiva.</value>
+</data>
+<data name="QAGateRegistrationTitle" xml:space="preserve">
+    <value>Registrar las respuestas</value>
+</data>
+<data name="QAGateResetNumberOfQuestionsExplanation_Format" xml:space="preserve">
+    <value>Debe responder {0} a las siguientes {1} preguntas.</value>
+</data>
+<data name="QAGateResetTitle" xml:space="preserve">
+    <value>Compruebe su identidad: enviar respuestas</value>
+</data>
+
+</root>
